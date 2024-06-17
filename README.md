@@ -3,8 +3,7 @@
 
 ### 1. Importing the Dataset
    - **Code**: The dataset is imported using pandas with the `read_csv` function.
-   - **Dataset Location**: The dataset is located on the local machine at `"C:\\Users\\My Pc\\Desktop\\python_ws\\Netflix data analysis.csv"`.
-
+   - **Dataset Location**: The dataset is located on the local machine at 'https://github.com/Jahnavi-Thiruvidhi/Netflix-Data-Analysis/blob/main/Netflix%20%20data%20analysis.csv'
 ### 2. Displaying the Dataset
    - **Code**: The dataset is loaded into a DataFrame and displayed.
    - **Output**: The first few rows of the dataset are shown to give a glimpse of its structure and contents.
